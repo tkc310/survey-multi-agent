@@ -1,0 +1,93 @@
+[
+  {
+    "word": "nipako",
+    "katakana": "ニパコ",
+    "translations": {
+      "ja": "賢明な、慎重な",
+      "en": "wise, prudent"
+    },
+    "pronunciation": "nipako",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "nipako ca = 賢明で"
+    ]
+  },
+  {
+    "word": "na",
+    "katakana": "ナ",
+    "translations": {
+      "ja": "〜ない（否定）",
+      "en": "not, no"
+    },
+    "pronunciation": "na",
+    "partOfSpeech": "否定詞",
+    "examples": [
+      "na ca khuddaṃ = 小さなことも〜ない"
+    ]
+  },
+  {
+    "word": "nikubbetha",
+    "katakana": "ニクッベタ",
+    "translations": {
+      "ja": "欺く、だます",
+      "en": "deceive, cheat"
+    },
+    "pronunciation": "nikubbetha",
+    "partOfSpeech": "動詞（opt法）",
+    "examples": [
+      "Na paro paraṃ nikubbetha = だれも他人を欺いてはならない"
+    ]
+  },
+  {
+    "word": "nātimaññetha",
+    "katakana": "ナーティマンニェタ",
+    "translations": {
+      "ja": "軽んじる、軽蔑する",
+      "en": "despise, look down upon"
+    },
+    "pronunciation": "nātimaññetha",
+    "partOfSpeech": "動詞（opt法）",
+    "examples": [
+      "nātimaññetha katthaci na kañci = どこでもだれをも軽んじてはならない"
+    ]
+  },
+  {
+    "word": "nāññamaññassa",
+    "katakana": "ナンニャマンニャッサ",
+    "translations": {
+      "ja": "互いに",
+      "en": "to one another"
+    },
+    "pronunciation": "nāññamaññassa",
+    "partOfSpeech": "代名詞",
+    "examples": [
+      "nāññamaññassa dukkhamiccheyya = 互いに苦しみを望んではならない"
+    ]
+  },
+  {
+    "word": "niyaṃ",
+    "katakana": "ニヤン",
+    "translations": {
+      "ja": "自分の",
+      "en": "one's own"
+    },
+    "pronunciation": "niyaṃ",
+    "partOfSpeech": "代名詞",
+    "examples": [
+      "niyaṃ puttaṃ = 自分の子"
+    ]
+  },
+  {
+    "word": "nisinno",
+    "katakana": "ニシンノ",
+    "translations": {
+      "ja": "座っている",
+      "en": "sitting"
+    },
+    "pronunciation": "nisinno",
+    "partOfSpeech": "動詞（過去分詞）",
+    "examples": [
+      "nisinno vā sayāno = 座っていても、横たわっていても"
+    ]
+  }
+]

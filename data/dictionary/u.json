@@ -1,0 +1,41 @@
+[
+  {
+    "word": "ujū",
+    "katakana": "ウジュウ",
+    "translations": {
+      "ja": "正直な、真っ直ぐな",
+      "en": "straight, honest"
+    },
+    "pronunciation": "ujū",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "ujū ca sujū ca = 正直で、素直で"
+    ]
+  },
+  {
+    "word": "upavadeyyuṃ",
+    "katakana": "ウパヴァデッユン",
+    "translations": {
+      "ja": "非難する、責める",
+      "en": "would blame, would reproach"
+    },
+    "pronunciation": "upavadeyyuṃ",
+    "partOfSpeech": "動詞（opt法）",
+    "examples": [
+      "pare upavadeyyuṃ = 他者が非難する"
+    ]
+  },
+  {
+    "word": "uddhaṃ",
+    "katakana": "ウッダン",
+    "translations": {
+      "ja": "上に、上方に",
+      "en": "above, upward"
+    },
+    "pronunciation": "uddhaṃ",
+    "partOfSpeech": "副詞",
+    "examples": [
+      "Uddhaṃ adho ca = 上下に"
+    ]
+  }
+]

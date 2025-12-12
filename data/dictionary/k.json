@@ -1,0 +1,119 @@
+[
+  {
+    "word": "karaṇīyam",
+    "katakana": "カラニーヤン",
+    "translations": {
+      "ja": "為すべきこと、なすべきこと",
+      "en": "what should be done, what is to be done"
+    },
+    "pronunciation": "karaṇīyam",
+    "partOfSpeech": "動詞（分詞）",
+    "examples": [
+      "Karaṇīyam-atthakusalena = 善きことを為そうと願う者は"
+    ]
+  },
+  {
+    "word": "khemino",
+    "katakana": "ケミーノ",
+    "translations": {
+      "ja": "安らかな、安全な",
+      "en": "secure, safe"
+    },
+    "pronunciation": "khemino",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "khemino hontu = 安らかでありますように"
+    ]
+  },
+  {
+    "word": "kulesu",
+    "katakana": "クレス",
+    "translations": {
+      "ja": "在家に、家々に",
+      "en": "among families"
+    },
+    "pronunciation": "kulesu",
+    "partOfSpeech": "名詞（処格）",
+    "examples": [
+      "kulesu ananugiddho = 在家に執着しない"
+    ]
+  },
+  {
+    "word": "khuddaṃ",
+    "katakana": "クッダン",
+    "translations": {
+      "ja": "小さなこと、些細なこと",
+      "en": "small thing, trifle"
+    },
+    "pronunciation": "khuddaṃ",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "khuddaṃ samācare = 小さなことを行う"
+    ]
+  },
+  {
+    "word": "kiñci",
+    "katakana": "キンチ",
+    "translations": {
+      "ja": "何か、いかなるもの",
+      "en": "anything, something"
+    },
+    "pronunciation": "kiñci",
+    "partOfSpeech": "代名詞",
+    "examples": [
+      "kiñci yena = 何かによって"
+    ]
+  },
+  {
+    "word": "keci",
+    "katakana": "ケチ",
+    "translations": {
+      "ja": "いくつかの、いかなる",
+      "en": "any, whatever"
+    },
+    "pronunciation": "keci",
+    "partOfSpeech": "代名詞",
+    "examples": [
+      "Ye keci = いかなるものも"
+    ]
+  },
+  {
+    "word": "katthaci",
+    "katakana": "カッタチ",
+    "translations": {
+      "ja": "どこでも",
+      "en": "anywhere, wherever"
+    },
+    "pronunciation": "katthaci",
+    "partOfSpeech": "副詞",
+    "examples": [
+      "katthaci na kañci = どこでもだれをも"
+    ]
+  },
+  {
+    "word": "kañci",
+    "katakana": "カンチ",
+    "translations": {
+      "ja": "だれをも、いかなる者も",
+      "en": "anyone, anybody"
+    },
+    "pronunciation": "kañci",
+    "partOfSpeech": "代名詞",
+    "examples": [
+      "na kañci = だれをも〜ない"
+    ]
+  },
+  {
+    "word": "kāmesu",
+    "katakana": "カーメス",
+    "translations": {
+      "ja": "欲望から、諸欲に",
+      "en": "in sensual desires"
+    },
+    "pronunciation": "kāmesu",
+    "partOfSpeech": "名詞（処格）",
+    "examples": [
+      "Kāmesu vineyya gedhaṃ = 欲望から貪りを除く"
+    ]
+  }
+]

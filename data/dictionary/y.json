@@ -1,0 +1,80 @@
+[
+  {
+    "word": "yantaṃ",
+    "katakana": "ヤンタン",
+    "translations": {
+      "ja": "〜するところの（関係代名詞）",
+      "en": "which, that which"
+    },
+    "pronunciation": "yantaṃ",
+    "partOfSpeech": "関係代名詞",
+    "examples": [
+      "yantaṃ santaṃ padaṃ = 寂静の境地に〜するところの"
+    ]
+  },
+  {
+    "word": "yena",
+    "katakana": "イェナ",
+    "translations": {
+      "ja": "〜によって（手段）",
+      "en": "by which, whereby"
+    },
+    "pronunciation": "yena",
+    "partOfSpeech": "関係代名詞",
+    "examples": [
+      "yena viññū pare upavadeyyuṃ = それによって賢者たちが非難する"
+    ]
+  },
+  {
+    "word": "ye",
+    "katakana": "イェ",
+    "translations": {
+      "ja": "〜するものは（関係代名詞）",
+      "en": "who, those who"
+    },
+    "pronunciation": "ye",
+    "partOfSpeech": "関係代名詞",
+    "examples": [
+      "Ye keci = いかなるものも"
+    ]
+  },
+  {
+    "word": "yeva",
+    "katakana": "イェヴァ",
+    "translations": {
+      "ja": "まさに、強調",
+      "en": "indeed, just"
+    },
+    "pronunciation": "yeva",
+    "partOfSpeech": "不変化詞",
+    "examples": [
+      "yeva = まさに"
+    ]
+  },
+  {
+    "word": "yathā",
+    "katakana": "ヤター",
+    "translations": {
+      "ja": "〜のように",
+      "en": "as, just as"
+    },
+    "pronunciation": "yathā",
+    "partOfSpeech": "接続詞",
+    "examples": [
+      "Mātā yathā = 母のように"
+    ]
+  },
+  {
+    "word": "yāvatassa",
+    "katakana": "ヤーヴァタッサ",
+    "translations": {
+      "ja": "〜するまで",
+      "en": "as long as, until"
+    },
+    "pronunciation": "yāvatassa",
+    "partOfSpeech": "接続詞",
+    "examples": [
+      "yāvatassa vigatamiddho = 眠気が去るまで"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "word": "gedhaṃ",
+    "katakana": "ゲーダン",
+    "translations": {
+      "ja": "貪り、貪欲",
+      "en": "greed, attachment"
+    },
+    "pronunciation": "gedhaṃ",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "vineyya gedhaṃ = 貪りを除く"
+    ]
+  },
+  {
+    "word": "gabbhaseyyaṃ",
+    "katakana": "ガッバセッヤン",
+    "translations": {
+      "ja": "母の胎に宿ること",
+      "en": "lying in a womb"
+    },
+    "pronunciation": "gabbhaseyyaṃ",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "na hi jātu gabbhaseyyaṃ = 決して再び母の胎に宿ることはない"
+    ]
+  }
+]

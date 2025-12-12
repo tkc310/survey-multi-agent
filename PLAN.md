@@ -72,15 +72,18 @@ survey-multi-agent-1/
 │   ├── katakana.ts             # カタカナ変換ロジック
 │   └── tts.ts                  # 音声読み上げロジック
 ├── data/                        # データファイル（初期実装）
-│   ├── texts.json              # テキストデータ
-│   └── dictionary.json         # 辞書データ
+│   ├── sutta.json              # テキストデータ
+│   └── dictionary/             # 辞書データ（アルファベット毎に分割）
+│       ├── a.json
+│       ├── b.json
+│       └── ...
 └── types/                       # TypeScript型定義
     └── index.ts                # 共通型定義
 ```
 
 ## データ構造
 
-### テキストデータ (`texts.json`)
+### テキストデータ (`sutta.json`)
 
 ```typescript
 {
@@ -95,7 +98,10 @@ survey-multi-agent-1/
 }
 ```
 
-### 辞書データ (`dictionary.json`)
+### 辞書データ (`dictionary/*.json`)
+
+辞書データは単語の最初の文字（アルファベット）毎に分割され、`data/dictionary/` ディレクトリ配下に配置されています。
+例: `dictionary/a.json`, `dictionary/b.json`, ..., `dictionary/s.json`, etc.
 
 ```typescript
 {
@@ -175,7 +181,7 @@ survey-multi-agent-1/
 3. TypeScript型定義の作成（テキスト、辞書データの型）
 4. API層の設計と実装（データアクセス層のインターフェース定義）
 5. データアクセス層の実装（ファイルベース実装）
-6. データファイル構造の作成（texts.json、dictionary.jsonの初期データ）
+6. データファイル構造の作成（sutta.json、アルファベット毎に分割されたdictionary/*.jsonの初期データ）
 7. API Routesの実装（データの読み書き、API層を経由）
 8. 基本レイアウトとナビゲーションの実装（shadcn/uiコンポーネント使用）
 9. テキスト読解コンポーネントの実装（テキスト表示、単語ツールチップ）

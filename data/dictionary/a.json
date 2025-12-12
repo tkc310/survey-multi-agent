@@ -1,0 +1,223 @@
+[
+  {
+    "word": "atthakusalena",
+    "katakana": "アッタクサレナ",
+    "translations": {
+      "ja": "善きことを為そうと願う者",
+      "en": "one who wishes to do good"
+    },
+    "pronunciation": "atthakusalena",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "Karaṇīyam-atthakusalena = 善きことを為そうと願う者は"
+    ]
+  },
+  {
+    "word": "abhisamecca",
+    "katakana": "アビサメッチャ",
+    "translations": {
+      "ja": "達して、到達して、悟って",
+      "en": "having attained, having reached"
+    },
+    "pronunciation": "abhisamecca",
+    "partOfSpeech": "動詞（絶対分詞）",
+    "examples": [
+      "santaṃ padaṃ abhisamecca = 寂静の境地に達して"
+    ]
+  },
+  {
+    "word": "appakicco",
+    "katakana": "アッパキッチョ",
+    "translations": {
+      "ja": "用事が少ない",
+      "en": "having few duties, having little business"
+    },
+    "pronunciation": "appakicco",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "appakicco ca = 用事が少なく"
+    ]
+  },
+  {
+    "word": "aparimāṇaṃ",
+    "katakana": "アパリマーナン",
+    "translations": {
+      "ja": "無量の、限りない",
+      "en": "immeasurable, boundless"
+    },
+    "pronunciation": "aparimāṇaṃ",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "aparimāṇaṃ = 無量の"
+    ]
+  },
+  {
+    "word": "anatimānī",
+    "katakana": "アナティマーニー",
+    "translations": {
+      "ja": "高慢でない、謙虚な",
+      "en": "not proud, humble"
+    },
+    "pronunciation": "anatimānī",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "mudu anatimānī = 柔和で、高慢でない"
+    ]
+  },
+  {
+    "word": "appagabbho",
+    "katakana": "アッパガッボ",
+    "translations": {
+      "ja": "無礼でない、控えめな",
+      "en": "not impudent, modest"
+    },
+    "pronunciation": "appagabbho",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "appagabbho kulesu = 在家に対して無礼でない"
+    ]
+  },
+  {
+    "word": "ananugiddho",
+    "katakana": "アナヌギッド",
+    "translations": {
+      "ja": "執着しない、貪らない",
+      "en": "not greedy, not attached"
+    },
+    "pronunciation": "ananugiddho",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "kulesu ananugiddho = 在家に執着しない"
+    ]
+  },
+  {
+    "word": "anavasesā",
+    "katakana": "アナヴァセサー",
+    "translations": {
+      "ja": "残らず、すべて",
+      "en": "without remainder, all"
+    },
+    "pronunciation": "anavasesā",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "anavasesā = 残らず"
+    ]
+  },
+  {
+    "word": "adiṭṭhā",
+    "katakana": "アディッター",
+    "translations": {
+      "ja": "見えないもの",
+      "en": "unseen, invisible"
+    },
+    "pronunciation": "adiṭṭhā",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "adiṭṭhā = 見えないもの"
+    ]
+  },
+  {
+    "word": "avidūre",
+    "katakana": "アヴィドゥーレ",
+    "translations": {
+      "ja": "近くに",
+      "en": "near, not far"
+    },
+    "pronunciation": "avidūre",
+    "partOfSpeech": "副詞",
+    "examples": [
+      "avidūre = 近くに"
+    ]
+  },
+  {
+    "word": "anurakkhe",
+    "katakana": "アヌラッケ",
+    "translations": {
+      "ja": "守る、保護する",
+      "en": "protect, guard"
+    },
+    "pronunciation": "anurakkhe",
+    "partOfSpeech": "動詞（opt法）",
+    "examples": [
+      "ekaputtam-anurakkhe = 一人の子を守る"
+    ]
+  },
+  {
+    "word": "adho",
+    "katakana": "アド",
+    "translations": {
+      "ja": "下に、下方に",
+      "en": "below, downward"
+    },
+    "pronunciation": "adho",
+    "partOfSpeech": "副詞",
+    "examples": [
+      "Uddhaṃ adho = 上下に"
+    ]
+  },
+  {
+    "word": "asambādhaṃ",
+    "katakana": "アサンバーダン",
+    "translations": {
+      "ja": "妨げなく、制限なく",
+      "en": "unobstructed, without constraint"
+    },
+    "pronunciation": "asambādhaṃ",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "asambādhaṃ averaṃ asapattaṃ = 妨げなく、敵意なく、争いなく"
+    ]
+  },
+  {
+    "word": "averaṃ",
+    "katakana": "アヴェラン",
+    "translations": {
+      "ja": "敵意なく",
+      "en": "without enmity"
+    },
+    "pronunciation": "averaṃ",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "averaṃ asapattaṃ = 敵意なく、争いなく"
+    ]
+  },
+  {
+    "word": "asapattaṃ",
+    "katakana": "アサパッタン",
+    "translations": {
+      "ja": "争いなく、敵なく",
+      "en": "without conflict"
+    },
+    "pronunciation": "asapattaṃ",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "asapattaṃ = 争いなく"
+    ]
+  },
+  {
+    "word": "adhiṭṭheyya",
+    "katakana": "アディッテッヤ",
+    "translations": {
+      "ja": "保つ、堅持する",
+      "en": "maintain, uphold"
+    },
+    "pronunciation": "adhiṭṭheyya",
+    "partOfSpeech": "動詞（opt法）",
+    "examples": [
+      "satiṃ adhiṭṭheyya = 正念を保て"
+    ]
+  },
+  {
+    "word": "anupagamma",
+    "katakana": "アヌパガッマ",
+    "translations": {
+      "ja": "執着せず、とらわれず",
+      "en": "not clinging to, not following"
+    },
+    "pronunciation": "anupagamma",
+    "partOfSpeech": "動詞（絶対分詞）",
+    "examples": [
+      "Diṭṭhiñca anupagamma = 見解に執着せず"
+    ]
+  }
+]

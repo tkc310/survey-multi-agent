@@ -1,0 +1,262 @@
+[
+  {
+    "word": "sabbe",
+    "katakana": "サッベー",
+    "translations": {
+      "ja": "すべての",
+      "en": "all"
+    },
+    "pronunciation": "sabbē",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "sabbe sattā = すべての生き物"
+    ]
+  },
+  {
+    "word": "sattā",
+    "katakana": "サッター",
+    "translations": {
+      "ja": "生き物、衆生",
+      "en": "beings, creatures"
+    },
+    "pronunciation": "sattā",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "sabbe sattā = すべての生き物"
+    ]
+  },
+  {
+    "word": "sukhitattā",
+    "katakana": "スキタッター",
+    "translations": {
+      "ja": "幸せな、幸福な",
+      "en": "happy, blissful"
+    },
+    "pronunciation": "sukhitattā",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "sukhitattā = 幸せな状態"
+    ]
+  },
+  {
+    "word": "santaṃ",
+    "katakana": "サンタン",
+    "translations": {
+      "ja": "寂静の、静かな",
+      "en": "peaceful, calm"
+    },
+    "pronunciation": "santaṃ",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "santaṃ padaṃ = 寂静の境地"
+    ]
+  },
+  {
+    "word": "sakko",
+    "katakana": "サッコ",
+    "translations": {
+      "ja": "能力がある、有能な",
+      "en": "capable, able"
+    },
+    "pronunciation": "sakko",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "Sakko ujū ca = 能力があり、正直で"
+    ]
+  },
+  {
+    "word": "suvaco",
+    "katakana": "スヴァチョ",
+    "translations": {
+      "ja": "素直な、従順な",
+      "en": "gentle, obedient"
+    },
+    "pronunciation": "suvaco",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "suvaco cassa = 素直で"
+    ]
+  },
+  {
+    "word": "santussako",
+    "katakana": "サントゥッサコ",
+    "translations": {
+      "ja": "満足している",
+      "en": "content, satisfied"
+    },
+    "pronunciation": "santussako",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "Santussako ca = 満足し"
+    ]
+  },
+  {
+    "word": "subharo",
+    "katakana": "スバーロ",
+    "translations": {
+      "ja": "養いやすい、扶養しやすい",
+      "en": "easy to support, easy to maintain"
+    },
+    "pronunciation": "subharo",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "subharo ca = 養いやすく"
+    ]
+  },
+  {
+    "word": "santindriyo",
+    "katakana": "サンティンドリヨ",
+    "translations": {
+      "ja": "諸根が静まった",
+      "en": "with calmed senses"
+    },
+    "pronunciation": "santindriyo",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "Santindriyo ca = 諸根が静まり"
+    ]
+  },
+  {
+    "word": "sabbabhūtesu",
+    "katakana": "サッバブーテス",
+    "translations": {
+      "ja": "すべての生き物に対して",
+      "en": "toward all beings"
+    },
+    "pronunciation": "sabbabhūtesu",
+    "partOfSpeech": "名詞（複数・処格）",
+    "examples": [
+      "sabbabhūtesu = すべての生き物に対して"
+    ]
+  },
+  {
+    "word": "sabbalokasmiṃ",
+    "katakana": "サッバロカスミン",
+    "translations": {
+      "ja": "すべての世界において",
+      "en": "in all worlds"
+    },
+    "pronunciation": "sabbalokasmiṃ",
+    "partOfSpeech": "名詞（処格）",
+    "examples": [
+      "sabbalokasmiṃ = すべての世界において"
+    ]
+  },
+  {
+    "word": "sukhino",
+    "katakana": "スキーノ",
+    "translations": {
+      "ja": "幸せな",
+      "en": "happy, blissful"
+    },
+    "pronunciation": "sukhino",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "Sukhino vā = 幸せな"
+    ]
+  },
+  {
+    "word": "sujū",
+    "katakana": "スジュウ",
+    "translations": {
+      "ja": "素直な、まっすぐな",
+      "en": "upright, straightforward"
+    },
+    "pronunciation": "sujū",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "ujū ca sujū ca = 正直で、素直で"
+    ]
+  },
+  {
+    "word": "sallahukavutti",
+    "katakana": "サッラフカヴッティ",
+    "translations": {
+      "ja": "生活が軽やかな、負担の少ない生活",
+      "en": "of light livelihood"
+    },
+    "pronunciation": "sallahukavutti",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "sallahukavutti = 生活が軽やかである"
+    ]
+  },
+  {
+    "word": "samācare",
+    "katakana": "サマーチャレ",
+    "translations": {
+      "ja": "行う、なす",
+      "en": "do, practice"
+    },
+    "pronunciation": "samācare",
+    "partOfSpeech": "動詞（opt法）",
+    "examples": [
+      "Na ca khuddaṃ samācare = 小さなことも行ってはならない"
+    ]
+  },
+  {
+    "word": "sambhavesī",
+    "katakana": "サンバヴェシー",
+    "translations": {
+      "ja": "これから生まれようとするもの",
+      "en": "those who will come to be"
+    },
+    "pronunciation": "sambhavesī",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "sambhavesī vā = これから生まれようとするものも"
+    ]
+  },
+  {
+    "word": "sayāno",
+    "katakana": "サヤーノ",
+    "translations": {
+      "ja": "横たわっている",
+      "en": "lying down"
+    },
+    "pronunciation": "sayāno",
+    "partOfSpeech": "動詞（現在分詞）",
+    "examples": [
+      "sayāno vā = 横たわっていても"
+    ]
+  },
+  {
+    "word": "satiṃ",
+    "katakana": "サティン",
+    "translations": {
+      "ja": "正念、気づき",
+      "en": "mindfulness, awareness"
+    },
+    "pronunciation": "satiṃ",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "Etaṃ satiṃ adhiṭṭheyya = この正念を保て"
+    ]
+  },
+  {
+    "word": "sīlavā",
+    "katakana": "シーラヴァー",
+    "translations": {
+      "ja": "戒を保つ、戒律を守る",
+      "en": "virtuous, moral"
+    },
+    "pronunciation": "sīlavā",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "sīlavā dassanena sampanno = 戒を保ち、見によって完成された"
+    ]
+  },
+  {
+    "word": "sampanno",
+    "katakana": "サンパンノ",
+    "translations": {
+      "ja": "完成された、成就した",
+      "en": "accomplished, endowed"
+    },
+    "pronunciation": "sampanno",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "dassanena sampanno = 見によって完成された"
+    ]
+  }
+]

@@ -81,8 +81,11 @@ bun run dev
 │   ├── api/             # API層（データ取得の抽象化）
 │   └── data/            # データアクセス層
 ├── data/                # データファイル
-│   ├── texts.json       # テキストデータ
-│   └── dictionary.json  # 辞書データ
+│   ├── sutta.json       # テキストデータ
+│   └── dictionary/      # 辞書データ（アルファベット毎に分割）
+│       ├── a.json
+│       ├── b.json
+│       └── ...
 └── types/               # TypeScript型定義
 ```
 

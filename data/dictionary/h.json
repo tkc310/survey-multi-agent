@@ -1,0 +1,28 @@
+[
+  {
+    "word": "hontu",
+    "katakana": "ホントゥ",
+    "translations": {
+      "ja": "〜でありますように",
+      "en": "may they be"
+    },
+    "pronunciation": "hontu",
+    "partOfSpeech": "動詞（命令法・祈願法）",
+    "examples": [
+      "hontu sabbe sattā = すべての生き物でありますように"
+    ]
+  },
+  {
+    "word": "hi",
+    "katakana": "ヒ",
+    "translations": {
+      "ja": "まさに、確かに（強調）",
+      "en": "indeed, certainly"
+    },
+    "pronunciation": "hi",
+    "partOfSpeech": "不変化詞",
+    "examples": [
+      "na hi jātu = まさに決して〜ない"
+    ]
+  }
+]

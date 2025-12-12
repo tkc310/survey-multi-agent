@@ -1,0 +1,119 @@
+[
+  {
+    "word": "padaṃ",
+    "katakana": "パダン",
+    "translations": {
+      "ja": "境地、道、状態",
+      "en": "state, path, condition"
+    },
+    "pronunciation": "padaṃ",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "santaṃ padaṃ = 寂静の境地"
+    ]
+  },
+  {
+    "word": "pare",
+    "katakana": "パレ",
+    "translations": {
+      "ja": "他人、他者",
+      "en": "others, other people"
+    },
+    "pronunciation": "pare",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "viññū pare = 賢者たち"
+    ]
+  },
+  {
+    "word": "pāṇabhūtatthi",
+    "katakana": "パーナブータッティ",
+    "translations": {
+      "ja": "生き物、命あるもの",
+      "en": "living beings, creatures"
+    },
+    "pronunciation": "pāṇabhūtatthi",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "Ye keci pāṇabhūtatthi = すべての生き物"
+    ]
+  },
+  {
+    "word": "paro",
+    "katakana": "パロ",
+    "translations": {
+      "ja": "他人、他者",
+      "en": "another, other"
+    },
+    "pronunciation": "paro",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "Na paro paraṃ nikubbetha = だれも他人を欺いてはならない"
+    ]
+  },
+  {
+    "word": "paraṃ",
+    "katakana": "パラン",
+    "translations": {
+      "ja": "他人を、他者を",
+      "en": "another (accusative)"
+    },
+    "pronunciation": "paraṃ",
+    "partOfSpeech": "名詞（対格）",
+    "examples": [
+      "paro paraṃ nikubbetha = 他人が他人を欺く"
+    ]
+  },
+  {
+    "word": "paṭighasaññā",
+    "katakana": "パティガサンニャー",
+    "translations": {
+      "ja": "憎しみの思い、反発の心",
+      "en": "perception of aversion"
+    },
+    "pronunciation": "paṭighasaññā",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "paṭighasaññā = 憎しみの思い"
+    ]
+  },
+  {
+    "word": "puttaṃ",
+    "katakana": "プッタン",
+    "translations": {
+      "ja": "子、息子",
+      "en": "son, child"
+    },
+    "pronunciation": "puttaṃ",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "niyaṃ puttaṃ = 自分の子"
+    ]
+  },
+  {
+    "word": "pi",
+    "katakana": "ピ",
+    "translations": {
+      "ja": "〜も、強調",
+      "en": "also, even"
+    },
+    "pronunciation": "pi",
+    "partOfSpeech": "不変化詞",
+    "examples": [
+      "Evam-pi = そのように"
+    ]
+  },
+  {
+    "word": "punar",
+    "katakana": "プナル",
+    "translations": {
+      "ja": "再び、もう一度",
+      "en": "again, once more"
+    },
+    "pronunciation": "punar",
+    "partOfSpeech": "副詞",
+    "examples": [
+      "punar-etīti = 再び来ることはない"
+    ]
+  }
+]

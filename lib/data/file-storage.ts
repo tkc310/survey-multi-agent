@@ -1,11 +1,11 @@
-import { readFile, writeFile, mkdir } from 'fs/promises';
-import { existsSync } from 'fs';
+import { readFile, writeFile, mkdir, readdir } from 'fs/promises';
+import { existsSync, readdirSync } from 'fs';
 import { join } from 'path';
 import type { IDataStorage, PaliText, DictionaryEntry } from '@/types';
 
 const DATA_DIR = join(process.cwd(), 'data');
-const TEXTS_FILE = join(DATA_DIR, 'texts.json');
-const DICTIONARY_FILE = join(DATA_DIR, 'dictionary.json');
+const DICTIONARY_DIR = join(DATA_DIR, 'dictionary');
+const TEXTS_FILE = join(DATA_DIR, 'sutta.json');
 
 // ファイルベースのデータストレージ実装
 export class FileStorage implements IDataStorage {
@@ -89,7 +89,35 @@ export class FileStorage implements IDataStorage {
 
   // 辞書操作
   async getDictionaryEntries(): Promise<DictionaryEntry[]> {
-    return this.readJsonFile<DictionaryEntry[]>(DICTIONARY_FILE, []);
+    await this.ensureDataDir();
+    try {
+      // dictionaryディレクトリが存在するか確認
+      if (!existsSync(DICTIONARY_DIR)) {
+        return [];
+      }
+
+      // すべての*.jsonファイルを読み込む
+      const files = readdirSync(DICTIONARY_DIR).filter(file => 
+        file.endsWith('.json')
+      );
+      
+      if (files.length === 0) {
+        return [];
+      }
+
+      const allEntries: DictionaryEntry[] = [];
+      for (const file of files) {
+        const filePath = join(DICTIONARY_DIR, file);
+        const content = await readFile(filePath, 'utf-8');
+        const entries = JSON.parse(content) as DictionaryEntry[];
+        allEntries.push(...entries);
+      }
+      
+      return allEntries;
+    } catch (error) {
+      console.error('Error reading dictionary files:', error);
+      return [];
+    }
   }
 
   async getDictionaryEntry(word: string): Promise<DictionaryEntry | null> {
@@ -98,7 +126,18 @@ export class FileStorage implements IDataStorage {
   }
 
   async createDictionaryEntry(entry: DictionaryEntry): Promise<DictionaryEntry> {
-    const entries = await this.getDictionaryEntries();
+    // dictionaryディレクトリを確保
+    if (!existsSync(DICTIONARY_DIR)) {
+      await mkdir(DICTIONARY_DIR, { recursive: true });
+    }
+    
+    // 単語の最初の文字でファイルを決定
+    const firstLetter = entry.word[0].toLowerCase();
+    const dictionaryFile = join(DICTIONARY_DIR, `${firstLetter}.json`);
+    
+    // 該当するアルファベットファイルを読み込む
+    const entries = await this.readJsonFile<DictionaryEntry[]>(dictionaryFile, []);
+    
     // 既存の単語があれば更新
     const existingIndex = entries.findIndex(e => e.word === entry.word);
     if (existingIndex !== -1) {
@@ -106,33 +145,49 @@ export class FileStorage implements IDataStorage {
     } else {
       entries.push(entry);
     }
-    await this.writeJsonFile(DICTIONARY_FILE, entries);
+    
+    await this.writeJsonFile(dictionaryFile, entries);
     return entry;
   }
 
   async updateDictionaryEntry(word: string, updates: Partial<DictionaryEntry>): Promise<DictionaryEntry> {
-    const entries = await this.getDictionaryEntries();
+    // 単語の最初の文字でファイルを決定
+    const firstLetter = word[0].toLowerCase();
+    const dictionaryFile = join(DICTIONARY_DIR, `${firstLetter}.json`);
+    
+    // 該当するアルファベットファイルを読み込む
+    const entries = await this.readJsonFile<DictionaryEntry[]>(dictionaryFile, []);
     const index = entries.findIndex(entry => entry.word === word);
+    
     if (index === -1) {
       throw new Error(`Dictionary entry for word "${word}" not found`);
     }
+    
     const updatedEntry = {
       ...entries[index],
       ...updates,
       word: entries[index].word, // 単語は変更不可
     };
     entries[index] = updatedEntry;
-    await this.writeJsonFile(DICTIONARY_FILE, entries);
+    
+    await this.writeJsonFile(dictionaryFile, entries);
     return updatedEntry;
   }
 
   async deleteDictionaryEntry(word: string): Promise<boolean> {
-    const entries = await this.getDictionaryEntries();
+    // 単語の最初の文字でファイルを決定
+    const firstLetter = word[0].toLowerCase();
+    const dictionaryFile = join(DICTIONARY_DIR, `${firstLetter}.json`);
+    
+    // 該当するアルファベットファイルを読み込む
+    const entries = await this.readJsonFile<DictionaryEntry[]>(dictionaryFile, []);
     const filteredEntries = entries.filter(entry => entry.word !== word);
+    
     if (filteredEntries.length === entries.length) {
       return false; // エントリが見つからなかった
     }
-    await this.writeJsonFile(DICTIONARY_FILE, filteredEntries);
+    
+    await this.writeJsonFile(dictionaryFile, filteredEntries);
     return true;
   }
 

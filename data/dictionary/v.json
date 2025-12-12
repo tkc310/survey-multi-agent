@@ -1,0 +1,80 @@
+[
+  {
+    "word": "viññū",
+    "katakana": "ヴィンニュー",
+    "translations": {
+      "ja": "賢者、賢い人々",
+      "en": "wise people, sages"
+    },
+    "pronunciation": "viññū",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "viññū pare = 賢者たち"
+    ]
+  },
+  {
+    "word": "vā",
+    "katakana": "ヴァー",
+    "translations": {
+      "ja": "または、〜も",
+      "en": "or, either"
+    },
+    "pronunciation": "vā",
+    "partOfSpeech": "接続詞",
+    "examples": [
+      "Sukhino vā khemino = 幸せな、または安らかな"
+    ]
+  },
+  {
+    "word": "vasanti",
+    "katakana": "ヴァサンティ",
+    "translations": {
+      "ja": "住む、生きる",
+      "en": "dwell, live"
+    },
+    "pronunciation": "vasanti",
+    "partOfSpeech": "動詞",
+    "examples": [
+      "dūre vasanti = 遠くに住む"
+    ]
+  },
+  {
+    "word": "vigatamiddho",
+    "katakana": "ヴィガタミッド",
+    "translations": {
+      "ja": "眠気が去った",
+      "en": "free from drowsiness"
+    },
+    "pronunciation": "vigatamiddho",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "vigatamiddho = 眠気が去った"
+    ]
+  },
+  {
+    "word": "vihāraṃ",
+    "katakana": "ヴィハーラン",
+    "translations": {
+      "ja": "住処、境地",
+      "en": "dwelling, abiding"
+    },
+    "pronunciation": "vihāraṃ",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "brahmametaṃ vihāraṃ = これを梵住と"
+    ]
+  },
+  {
+    "word": "vineyya",
+    "katakana": "ヴィネッヤ",
+    "translations": {
+      "ja": "除いた、取り除いた",
+      "en": "having removed, having overcome"
+    },
+    "pronunciation": "vineyya",
+    "partOfSpeech": "動詞（絶対分詞）",
+    "examples": [
+      "vineyya gedhaṃ = 貪りを除く"
+    ]
+  }
+]

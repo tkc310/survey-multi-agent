@@ -1,0 +1,93 @@
+[
+  {
+    "word": "mudu",
+    "katakana": "ムドゥ",
+    "translations": {
+      "ja": "柔和な、柔らかい",
+      "en": "gentle, soft"
+    },
+    "pronunciation": "mudu",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "mudu anatimānī = 柔和で、高慢でない"
+    ]
+  },
+  {
+    "word": "mettā",
+    "katakana": "メッター",
+    "translations": {
+      "ja": "慈悲、慈愛",
+      "en": "loving-kindness, benevolence"
+    },
+    "pronunciation": "mettā",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "Mettāñca sabbalokasmiṃ = すべての世界において、無量の慈悲の心を"
+    ]
+  },
+  {
+    "word": "mānasam",
+    "katakana": "マーナサン",
+    "translations": {
+      "ja": "心、精神",
+      "en": "mind, mental"
+    },
+    "pronunciation": "mānasam",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "mānasam bhāvaye = 心を育てよ"
+    ]
+  },
+  {
+    "word": "mahantā",
+    "katakana": "マハンター",
+    "translations": {
+      "ja": "大きいもの",
+      "en": "large, great"
+    },
+    "pronunciation": "mahantā",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "mahantā vā = 大きいものも"
+    ]
+  },
+  {
+    "word": "majjhimā",
+    "katakana": "マッジマー",
+    "translations": {
+      "ja": "中くらいのもの",
+      "en": "medium, middle"
+    },
+    "pronunciation": "majjhimā",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "majjhimā rassakāṇukathūlā = 中くらいのもの、短いもの、細いもの、太いもの"
+    ]
+  },
+  {
+    "word": "mātā",
+    "katakana": "マーター",
+    "translations": {
+      "ja": "母",
+      "en": "mother"
+    },
+    "pronunciation": "mātā",
+    "partOfSpeech": "名詞",
+    "examples": [
+      "Mātā yathā niyaṃ puttaṃ = 母が自分の子を"
+    ]
+  },
+  {
+    "word": "mettāñca",
+    "katakana": "メッタンチャ",
+    "translations": {
+      "ja": "慈悲を、そして慈愛を",
+      "en": "and loving-kindness"
+    },
+    "pronunciation": "mettāñca",
+    "partOfSpeech": "名詞+接続詞",
+    "examples": [
+      "Mettāñca sabbalokasmiṃ = すべての世界において慈悲を"
+    ]
+  }
+]

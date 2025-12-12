@@ -1,0 +1,54 @@
+[
+  {
+    "word": "tasā",
+    "katakana": "タサー",
+    "translations": {
+      "ja": "動くもの、動物",
+      "en": "moving, mobile"
+    },
+    "pronunciation": "tasā",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "tasā vā thāvarā vā = 動くものも動かないものも"
+    ]
+  },
+  {
+    "word": "thāvarā",
+    "katakana": "ターヴァラー",
+    "translations": {
+      "ja": "動かないもの、不動の",
+      "en": "immobile, stationary"
+    },
+    "pronunciation": "thāvarā",
+    "partOfSpeech": "形容詞",
+    "examples": [
+      "tasā vā thāvarā vā = 動くものも動かないものも"
+    ]
+  },
+  {
+    "word": "tiriyañca",
+    "katakana": "ティリヤンチャ",
+    "translations": {
+      "ja": "左右に、横に",
+      "en": "across, sideways"
+    },
+    "pronunciation": "tiriyañca",
+    "partOfSpeech": "副詞",
+    "examples": [
+      "tiriyañca = 左右に"
+    ]
+  },
+  {
+    "word": "tiṭṭhaṃ",
+    "katakana": "ティッタン",
+    "translations": {
+      "ja": "立っている",
+      "en": "standing"
+    },
+    "pronunciation": "tiṭṭhaṃ",
+    "partOfSpeech": "動詞（現在分詞）",
+    "examples": [
+      "Tiṭṭhaṃ caraṃ = 立っていても、歩いていても"
+    ]
+  }
+]
