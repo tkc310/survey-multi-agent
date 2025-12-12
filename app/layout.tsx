@@ -10,7 +10,7 @@ const notoSansJP = Noto_Sans_JP({
 });
 
 export const metadata: Metadata = {
-  title: "パーリ語学習サイト",
+  title: "ニルバーナ",
   description: "パーリ語の経典を学習するためのサイト",
 };
 

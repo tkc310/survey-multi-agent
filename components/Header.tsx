@@ -7,7 +7,7 @@ export function Header() {
       <div className="container mx-auto px-4 py-4">
         <nav className="flex items-center justify-between">
           <Link href="/" className="text-2xl font-bold">
-            パーリ語学習
+            ニルバーナ
           </Link>
           <div className="flex gap-4">
             <Link href="/">
