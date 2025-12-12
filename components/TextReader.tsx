@@ -129,4 +129,3 @@ export function TextReader({ text }: TextReaderProps) {
     </div>
   );
 }
-
