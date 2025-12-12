@@ -14,6 +14,14 @@ interface WordTooltipProps {
   children: React.ReactNode;
 }
 
+// 単語を正規化する関数（句読点や特殊文字を除去し、小文字に変換）
+function normalizeWord(word: string): string {
+  return word
+    .toLowerCase()
+    .replace(/[,\.\!?;:"""'''`\-—–()[\]{}]/g, '')
+    .trim();
+}
+
 export function WordTooltip({ word, children }: WordTooltipProps) {
   const [entry, setEntry] = useState<DictionaryEntry | null>(null);
   const [loading, setLoading] = useState(false);
@@ -24,7 +32,14 @@ export function WordTooltip({ word, children }: WordTooltipProps) {
     const fetchEntry = async () => {
       setLoading(true);
       try {
-        const response = await fetch(`/api/dictionary?word=${encodeURIComponent(word)}`);
+        // 単語を正規化してから検索
+        const normalizedWord = normalizeWord(word);
+        if (!normalizedWord) {
+          setLoading(false);
+          return;
+        }
+        
+        const response = await fetch(`/api/dictionary?word=${encodeURIComponent(normalizedWord)}`);
         const data = await response.json();
         if (data.success && data.data) {
           setEntry(data.data);

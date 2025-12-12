@@ -1,13 +1,203 @@
 [
   {
-    "id": "text-sample-001",
-    "title": "慈悲の瞑想（メッター・スッタ）",
-    "content": "Sabbe sattā bhavantu sukhitattā",
-    "katakana": "サッベー サッター バヴァントゥ スキタッター",
-    "translation": "すべての生きとし生けるものが幸せでありますように",
-    "source": "スッタニパータ（経集）",
-    "createdAt": "2024-01-01T00:00:00.000Z",
-    "updatedAt": "2024-01-01T00:00:00.000Z"
+    "id": "metta-sutta-001",
+    "title": "慈悲の瞑想 第1節",
+    "content": "Karaṇīyam-atthakusalena yantaṃ santaṃ padaṃ abhisamecca",
+    "katakana": "カラニーヤマッタクサレナ ヤンタン サンタン パダン アビサメッチャ",
+    "translation": "善きことを為そうと願う者は、寂静の境地に達するために",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-002",
+    "title": "慈悲の瞑想 第2節",
+    "content": "Sakko ujū ca sujū ca suvaco cassa mudu anatimānī",
+    "katakana": "サッコ ウジュウ チャ スジュウ チャ スヴァチョ チャッサ ムドゥ アナティマーニー",
+    "translation": "能力があり、正直で、素直で、柔和で、高慢でない者であれ",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-003",
+    "title": "慈悲の瞑想 第3節",
+    "content": "Santussako ca subharo ca appakicco ca sallahukavutti",
+    "katakana": "サントゥッサコ チャ スバーロ チャ アッパキッチョ チャ サッラフカヴッティ",
+    "translation": "満足し、養いやすく、用事が少なく、生活が軽やかである者であれ",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-004",
+    "title": "慈悲の瞑想 第4節",
+    "content": "Santindriyo ca nipako ca appagabbho kulesu ananugiddho",
+    "katakana": "サンティンドリヨ チャ ニパコ チャ アッパガッボ クレス アナヌギッド",
+    "translation": "諸根が静まり、賢明で、無礼でなく、在家に執着しない者であれ",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-005",
+    "title": "慈悲の瞑想 第5節",
+    "content": "Na ca khuddaṃ samācare kiñci yena viññū pare upavadeyyuṃ",
+    "katakana": "ナ チャ クッダン サマーチャレ キンチ イェナ ヴィンニュー パレ ウパヴァデッユン",
+    "translation": "賢者たちが非難するような、どんな小さなことも行ってはならない",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-006",
+    "title": "慈悲の瞑想 第6節",
+    "content": "Sukhino vā khemino hontu sabbe sattā bhavantu sukhitattā",
+    "katakana": "スキーノ ヴァー ケミーノ ホントゥ サッベー サッター バヴァントゥ スキタッター",
+    "translation": "すべての生きとし生けるものが幸せで、安らかでありますように",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-007",
+    "title": "慈悲の瞑想 第7節",
+    "content": "Ye keci pāṇabhūtatthi tasā vā thāvarā vā anavasesā",
+    "katakana": "イェ ケチ パーナブータッティ タサー ヴァー ターヴァラー ヴァー アナヴァセサー",
+    "translation": "すべての生き物、動くものも動かないものも、残らず",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-008",
+    "title": "慈悲の瞑想 第8節",
+    "content": "Dīghā vā ye mahantā vā majjhimā rassakāṇukathūlā",
+    "katakana": "ディーガー ヴァー イェ マハンター ヴァー マッジマー ラッサカーヌカトゥーラー",
+    "translation": "長いものも、大きいものも、中くらいのものも、短いものも、細いものも、太いものも",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-009",
+    "title": "慈悲の瞑想 第9節",
+    "content": "Diṭṭhā vā yeva adiṭṭhā ye ca dūre vasanti avidūre",
+    "katakana": "ディッター ヴァー イェヴァ アディッター イェ チャ ドゥーレ ヴァサンティ アヴィドゥーレ",
+    "translation": "見えるものも、見えないものも、遠くに住むものも、近くに住むものも",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-010",
+    "title": "慈悲の瞑想 第10節",
+    "content": "Bhūtā vā sambhavesī vā sabbe sattā bhavantu sukhitattā",
+    "katakana": "ブーター ヴァー サンバヴェシー ヴァー サッベー サッター バヴァントゥ スキタッター",
+    "translation": "すでに生まれたものも、これから生まれようとするものも、すべての生きとし生けるものが幸せでありますように",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-011",
+    "title": "慈悲の瞑想 第11節",
+    "content": "Na paro paraṃ nikubbetha nātimaññetha katthaci na kañci",
+    "katakana": "ナ パロ パラン ニクッベタ ナーティマンニェタ カッタチ ナ カンチ",
+    "translation": "だれも他人を欺いてはならない。どこでもだれをも軽んじてはならない",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-012",
+    "title": "慈悲の瞑想 第12節",
+    "content": "Byārosanā paṭighasaññā nāññamaññassa dukkhamiccheyya",
+    "katakana": "ビャーロサナー パティガサンニャー ナンニャマンニャッサ ドゥッカミッチェッヤ",
+    "translation": "怒りや憎しみの思いによって、互いに苦しみを望んではならない",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-013",
+    "title": "慈悲の瞑想 第13節",
+    "content": "Mātā yathā niyaṃ puttaṃ āyusā ekaputtam-anurakkhe",
+    "katakana": "マーター ヤター ニヤン プッタン アーユサー エカプッタマヌラッケ",
+    "translation": "母がたった一人の子を命がけで守るように",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-014",
+    "title": "慈悲の瞑想 第14節",
+    "content": "Evam-pi sabbabhūtesu mānasam bhāvaye aparimāṇaṃ",
+    "katakana": "エヴァンピ サッバブーテス マーナサン バーヴァイェ アパリマーナン",
+    "translation": "すべての生き物に対して、無量の心を育てよ",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-015",
+    "title": "慈悲の瞑想 第15節",
+    "content": "Mettāñca sabbalokasmiṃ mānasam bhāvaye aparimāṇaṃ",
+    "katakana": "メッタンチャ サッバロカスミン マーナサン バーヴァイェ アパリマーナン",
+    "translation": "すべての世界において、無量の慈悲の心を育てよ",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-016",
+    "title": "慈悲の瞑想 第16節",
+    "content": "Uddhaṃ adho ca tiriyañca asambādhaṃ averaṃ asapattaṃ",
+    "katakana": "ウッダン アド チャ ティリヤンチャ アサンバーダン アヴェラン アサパッタン",
+    "translation": "上下左右、すべての方向に、妨げなく、敵意なく、争いなく",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-017",
+    "title": "慈悲の瞑想 第17節",
+    "content": "Tiṭṭhaṃ caraṃ nisinno vā sayāno vā yāvatassa vigatamiddho",
+    "katakana": "ティッタン チャラン ニシンノ ヴァー サヤーノ ヴァー ヤーヴァタッサ ヴィガタミッド",
+    "translation": "立っていても、歩いていても、座っていても、横たわっていても、眠気が去るまで",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-018",
+    "title": "慈悲の瞑想 第18節",
+    "content": "Etaṃ satiṃ adhiṭṭheyya brahmametaṃ vihāraṃ idhamāhu",
+    "katakana": "エタン サティン アディッテッヤ ブラマメタン ヴィハーラン イダマーフ",
+    "translation": "この正念を保て。これを梵住（ブラフマヴィハーラ）と人々は呼ぶ",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-019",
+    "title": "慈悲の瞑想 第19節",
+    "content": "Diṭṭhiñca anupagamma sīlavā dassanena sampanno",
+    "katakana": "ディッティンチャ アヌパガッマ シーラヴァー ダッサネナ サンパンノ",
+    "translation": "見解に執着せず、戒を保ち、見によって完成された者",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
+  },
+  {
+    "id": "metta-sutta-020",
+    "title": "慈悲の瞑想 第20節",
+    "content": "Kāmesu vineyya gedhaṃ na hi jātu gabbhaseyyaṃ punar-etīti",
+    "katakana": "カーメス ヴィネッヤ ゲーダン ナ ヒ ジャートゥ ガッバセッヤン プナレティティ",
+    "translation": "欲望から貪りを除いた者は、もはや再び母の胎に宿ることはない",
+    "source": "スッタニパータ（経集）1.8 メッター・スッタ",
+    "createdAt": "2025-12-12T07:25:16.000Z",
+    "updatedAt": "2025-12-12T07:25:16.000Z"
   }
 ]
 

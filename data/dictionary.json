@@ -42,6 +42,1216 @@
     "pronunciation": "sukhitattā",
     "partOfSpeech": "形容詞",
     "examples": ["sukhitattā = 幸せな状態"]
+  },
+  {
+    "word": "karaṇīyam",
+    "katakana": "カラニーヤン",
+    "translations": {
+      "ja": "為すべきこと、なすべきこと",
+      "en": "what should be done, what is to be done"
+    },
+    "pronunciation": "karaṇīyam",
+    "partOfSpeech": "動詞（分詞）",
+    "examples": ["Karaṇīyam-atthakusalena = 善きことを為そうと願う者は"]
+  },
+  {
+    "word": "atthakusalena",
+    "katakana": "アッタクサレナ",
+    "translations": {
+      "ja": "善きことを為そうと願う者",
+      "en": "one who wishes to do good"
+    },
+    "pronunciation": "atthakusalena",
+    "partOfSpeech": "名詞",
+    "examples": ["Karaṇīyam-atthakusalena = 善きことを為そうと願う者は"]
+  },
+  {
+    "word": "santaṃ",
+    "katakana": "サンタン",
+    "translations": {
+      "ja": "寂静の、静かな",
+      "en": "peaceful, calm"
+    },
+    "pronunciation": "santaṃ",
+    "partOfSpeech": "形容詞",
+    "examples": ["santaṃ padaṃ = 寂静の境地"]
+  },
+  {
+    "word": "padaṃ",
+    "katakana": "パダン",
+    "translations": {
+      "ja": "境地、道、状態",
+      "en": "state, path, condition"
+    },
+    "pronunciation": "padaṃ",
+    "partOfSpeech": "名詞",
+    "examples": ["santaṃ padaṃ = 寂静の境地"]
+  },
+  {
+    "word": "yantaṃ",
+    "katakana": "ヤンタン",
+    "translations": {
+      "ja": "〜するところの（関係代名詞）",
+      "en": "which, that which"
+    },
+    "pronunciation": "yantaṃ",
+    "partOfSpeech": "関係代名詞",
+    "examples": ["yantaṃ santaṃ padaṃ = 寂静の境地に〜するところの"]
+  },
+  {
+    "word": "abhisamecca",
+    "katakana": "アビサメッチャ",
+    "translations": {
+      "ja": "達して、到達して、悟って",
+      "en": "having attained, having reached"
+    },
+    "pronunciation": "abhisamecca",
+    "partOfSpeech": "動詞（絶対分詞）",
+    "examples": ["santaṃ padaṃ abhisamecca = 寂静の境地に達して"]
+  },
+  {
+    "word": "sakko",
+    "katakana": "サッコ",
+    "translations": {
+      "ja": "能力がある、有能な",
+      "en": "capable, able"
+    },
+    "pronunciation": "sakko",
+    "partOfSpeech": "形容詞",
+    "examples": ["Sakko ujū ca = 能力があり、正直で"]
+  },
+  {
+    "word": "ujū",
+    "katakana": "ウジュウ",
+    "translations": {
+      "ja": "正直な、真っ直ぐな",
+      "en": "straight, honest"
+    },
+    "pronunciation": "ujū",
+    "partOfSpeech": "形容詞",
+    "examples": ["ujū ca sujū ca = 正直で、素直で"]
+  },
+  {
+    "word": "suvaco",
+    "katakana": "スヴァチョ",
+    "translations": {
+      "ja": "素直な、従順な",
+      "en": "gentle, obedient"
+    },
+    "pronunciation": "suvaco",
+    "partOfSpeech": "形容詞",
+    "examples": ["suvaco cassa = 素直で"]
+  },
+  {
+    "word": "mudu",
+    "katakana": "ムドゥ",
+    "translations": {
+      "ja": "柔和な、柔らかい",
+      "en": "gentle, soft"
+    },
+    "pronunciation": "mudu",
+    "partOfSpeech": "形容詞",
+    "examples": ["mudu anatimānī = 柔和で、高慢でない"]
+  },
+  {
+    "word": "santussako",
+    "katakana": "サントゥッサコ",
+    "translations": {
+      "ja": "満足している",
+      "en": "content, satisfied"
+    },
+    "pronunciation": "santussako",
+    "partOfSpeech": "形容詞",
+    "examples": ["Santussako ca = 満足し"]
+  },
+  {
+    "word": "subharo",
+    "katakana": "スバーロ",
+    "translations": {
+      "ja": "養いやすい、扶養しやすい",
+      "en": "easy to support, easy to maintain"
+    },
+    "pronunciation": "subharo",
+    "partOfSpeech": "形容詞",
+    "examples": ["subharo ca = 養いやすく"]
+  },
+  {
+    "word": "appakicco",
+    "katakana": "アッパキッチョ",
+    "translations": {
+      "ja": "用事が少ない",
+      "en": "having few duties, having little business"
+    },
+    "pronunciation": "appakicco",
+    "partOfSpeech": "形容詞",
+    "examples": ["appakicco ca = 用事が少なく"]
+  },
+  {
+    "word": "santindriyo",
+    "katakana": "サンティンドリヨ",
+    "translations": {
+      "ja": "諸根が静まった",
+      "en": "with calmed senses"
+    },
+    "pronunciation": "santindriyo",
+    "partOfSpeech": "形容詞",
+    "examples": ["Santindriyo ca = 諸根が静まり"]
+  },
+  {
+    "word": "nipako",
+    "katakana": "ニパコ",
+    "translations": {
+      "ja": "賢明な、慎重な",
+      "en": "wise, prudent"
+    },
+    "pronunciation": "nipako",
+    "partOfSpeech": "形容詞",
+    "examples": ["nipako ca = 賢明で"]
+  },
+  {
+    "word": "mettā",
+    "katakana": "メッター",
+    "translations": {
+      "ja": "慈悲、慈愛",
+      "en": "loving-kindness, benevolence"
+    },
+    "pronunciation": "mettā",
+    "partOfSpeech": "名詞",
+    "examples": ["Mettāñca sabbalokasmiṃ = すべての世界において、無量の慈悲の心を"]
+  },
+  {
+    "word": "mānasam",
+    "katakana": "マーナサン",
+    "translations": {
+      "ja": "心、精神",
+      "en": "mind, mental"
+    },
+    "pronunciation": "mānasam",
+    "partOfSpeech": "名詞",
+    "examples": ["mānasam bhāvaye = 心を育てよ"]
+  },
+  {
+    "word": "bhāvaye",
+    "katakana": "バーヴァイェ",
+    "translations": {
+      "ja": "育てよ、発展させよ",
+      "en": "develop, cultivate"
+    },
+    "pronunciation": "bhāvaye",
+    "partOfSpeech": "動詞（命令法）",
+    "examples": ["mānasam bhāvaye = 心を育てよ"]
+  },
+  {
+    "word": "aparimāṇaṃ",
+    "katakana": "アパリマーナン",
+    "translations": {
+      "ja": "無量の、限りない",
+      "en": "immeasurable, boundless"
+    },
+    "pronunciation": "aparimāṇaṃ",
+    "partOfSpeech": "形容詞",
+    "examples": ["aparimāṇaṃ = 無量の"]
+  },
+  {
+    "word": "sabbabhūtesu",
+    "katakana": "サッバブーテス",
+    "translations": {
+      "ja": "すべての生き物に対して",
+      "en": "toward all beings"
+    },
+    "pronunciation": "sabbabhūtesu",
+    "partOfSpeech": "名詞（複数・処格）",
+    "examples": ["sabbabhūtesu = すべての生き物に対して"]
+  },
+  {
+    "word": "sabbalokasmiṃ",
+    "katakana": "サッバロカスミン",
+    "translations": {
+      "ja": "すべての世界において",
+      "en": "in all worlds"
+    },
+    "pronunciation": "sabbalokasmiṃ",
+    "partOfSpeech": "名詞（処格）",
+    "examples": ["sabbalokasmiṃ = すべての世界において"]
+  },
+  {
+    "word": "hontu",
+    "katakana": "ホントゥ",
+    "translations": {
+      "ja": "〜でありますように",
+      "en": "may they be"
+    },
+    "pronunciation": "hontu",
+    "partOfSpeech": "動詞（命令法・祈願法）",
+    "examples": ["hontu sabbe sattā = すべての生き物でありますように"]
+  },
+  {
+    "word": "sukhino",
+    "katakana": "スキーノ",
+    "translations": {
+      "ja": "幸せな",
+      "en": "happy, blissful"
+    },
+    "pronunciation": "sukhino",
+    "partOfSpeech": "形容詞",
+    "examples": ["Sukhino vā = 幸せな"]
+  },
+  {
+    "word": "khemino",
+    "katakana": "ケミーノ",
+    "translations": {
+      "ja": "安らかな、安全な",
+      "en": "secure, safe"
+    },
+    "pronunciation": "khemino",
+    "partOfSpeech": "形容詞",
+    "examples": ["khemino hontu = 安らかでありますように"]
+  },
+  {
+    "word": "ca",
+    "katakana": "チャ",
+    "translations": {
+      "ja": "そして、〜と",
+      "en": "and"
+    },
+    "pronunciation": "ca",
+    "partOfSpeech": "接続詞",
+    "examples": ["ujū ca sujū ca = 正直で、素直で"]
+  },
+  {
+    "word": "sujū",
+    "katakana": "スジュウ",
+    "translations": {
+      "ja": "素直な、まっすぐな",
+      "en": "upright, straightforward"
+    },
+    "pronunciation": "sujū",
+    "partOfSpeech": "形容詞",
+    "examples": ["ujū ca sujū ca = 正直で、素直で"]
+  },
+  {
+    "word": "cassa",
+    "katakana": "チャッサ",
+    "translations": {
+      "ja": "そして〜である",
+      "en": "and he should be"
+    },
+    "pronunciation": "cassa",
+    "partOfSpeech": "接続詞+動詞",
+    "examples": ["suvaco cassa = 素直で"]
+  },
+  {
+    "word": "anatimānī",
+    "katakana": "アナティマーニー",
+    "translations": {
+      "ja": "高慢でない、謙虚な",
+      "en": "not proud, humble"
+    },
+    "pronunciation": "anatimānī",
+    "partOfSpeech": "形容詞",
+    "examples": ["mudu anatimānī = 柔和で、高慢でない"]
+  },
+  {
+    "word": "sallahukavutti",
+    "katakana": "サッラフカヴッティ",
+    "translations": {
+      "ja": "生活が軽やかな、負担の少ない生活",
+      "en": "of light livelihood"
+    },
+    "pronunciation": "sallahukavutti",
+    "partOfSpeech": "形容詞",
+    "examples": ["sallahukavutti = 生活が軽やかである"]
+  },
+  {
+    "word": "appagabbho",
+    "katakana": "アッパガッボ",
+    "translations": {
+      "ja": "無礼でない、控えめな",
+      "en": "not impudent, modest"
+    },
+    "pronunciation": "appagabbho",
+    "partOfSpeech": "形容詞",
+    "examples": ["appagabbho kulesu = 在家に対して無礼でない"]
+  },
+  {
+    "word": "kulesu",
+    "katakana": "クレス",
+    "translations": {
+      "ja": "在家に、家々に",
+      "en": "among families"
+    },
+    "pronunciation": "kulesu",
+    "partOfSpeech": "名詞（処格）",
+    "examples": ["kulesu ananugiddho = 在家に執着しない"]
+  },
+  {
+    "word": "ananugiddho",
+    "katakana": "アナヌギッド",
+    "translations": {
+      "ja": "執着しない、貪らない",
+      "en": "not greedy, not attached"
+    },
+    "pronunciation": "ananugiddho",
+    "partOfSpeech": "形容詞",
+    "examples": ["kulesu ananugiddho = 在家に執着しない"]
+  },
+  {
+    "word": "na",
+    "katakana": "ナ",
+    "translations": {
+      "ja": "〜ない（否定）",
+      "en": "not, no"
+    },
+    "pronunciation": "na",
+    "partOfSpeech": "否定詞",
+    "examples": ["na ca khuddaṃ = 小さなことも〜ない"]
+  },
+  {
+    "word": "khuddaṃ",
+    "katakana": "クッダン",
+    "translations": {
+      "ja": "小さなこと、些細なこと",
+      "en": "small thing, trifle"
+    },
+    "pronunciation": "khuddaṃ",
+    "partOfSpeech": "形容詞",
+    "examples": ["khuddaṃ samācare = 小さなことを行う"]
+  },
+  {
+    "word": "samācare",
+    "katakana": "サマーチャレ",
+    "translations": {
+      "ja": "行う、なす",
+      "en": "do, practice"
+    },
+    "pronunciation": "samācare",
+    "partOfSpeech": "動詞（opt法）",
+    "examples": ["Na ca khuddaṃ samācare = 小さなことも行ってはならない"]
+  },
+  {
+    "word": "kiñci",
+    "katakana": "キンチ",
+    "translations": {
+      "ja": "何か、いかなるもの",
+      "en": "anything, something"
+    },
+    "pronunciation": "kiñci",
+    "partOfSpeech": "代名詞",
+    "examples": ["kiñci yena = 何かによって"]
+  },
+  {
+    "word": "yena",
+    "katakana": "イェナ",
+    "translations": {
+      "ja": "〜によって（手段）",
+      "en": "by which, whereby"
+    },
+    "pronunciation": "yena",
+    "partOfSpeech": "関係代名詞",
+    "examples": ["yena viññū pare upavadeyyuṃ = それによって賢者たちが非難する"]
+  },
+  {
+    "word": "viññū",
+    "katakana": "ヴィンニュー",
+    "translations": {
+      "ja": "賢者、賢い人々",
+      "en": "wise people, sages"
+    },
+    "pronunciation": "viññū",
+    "partOfSpeech": "名詞",
+    "examples": ["viññū pare = 賢者たち"]
+  },
+  {
+    "word": "pare",
+    "katakana": "パレ",
+    "translations": {
+      "ja": "他人、他者",
+      "en": "others, other people"
+    },
+    "pronunciation": "pare",
+    "partOfSpeech": "名詞",
+    "examples": ["viññū pare = 賢者たち"]
+  },
+  {
+    "word": "upavadeyyuṃ",
+    "katakana": "ウパヴァデッユン",
+    "translations": {
+      "ja": "非難する、責める",
+      "en": "would blame, would reproach"
+    },
+    "pronunciation": "upavadeyyuṃ",
+    "partOfSpeech": "動詞（opt法）",
+    "examples": ["pare upavadeyyuṃ = 他者が非難する"]
+  },
+  {
+    "word": "vā",
+    "katakana": "ヴァー",
+    "translations": {
+      "ja": "または、〜も",
+      "en": "or, either"
+    },
+    "pronunciation": "vā",
+    "partOfSpeech": "接続詞",
+    "examples": ["Sukhino vā khemino = 幸せな、または安らかな"]
+  },
+  {
+    "word": "ye",
+    "katakana": "イェ",
+    "translations": {
+      "ja": "〜するものは（関係代名詞）",
+      "en": "who, those who"
+    },
+    "pronunciation": "ye",
+    "partOfSpeech": "関係代名詞",
+    "examples": ["Ye keci = いかなるものも"]
+  },
+  {
+    "word": "keci",
+    "katakana": "ケチ",
+    "translations": {
+      "ja": "いくつかの、いかなる",
+      "en": "any, whatever"
+    },
+    "pronunciation": "keci",
+    "partOfSpeech": "代名詞",
+    "examples": ["Ye keci = いかなるものも"]
+  },
+  {
+    "word": "pāṇabhūtatthi",
+    "katakana": "パーナブータッティ",
+    "translations": {
+      "ja": "生き物、命あるもの",
+      "en": "living beings, creatures"
+    },
+    "pronunciation": "pāṇabhūtatthi",
+    "partOfSpeech": "名詞",
+    "examples": ["Ye keci pāṇabhūtatthi = すべての生き物"]
+  },
+  {
+    "word": "tasā",
+    "katakana": "タサー",
+    "translations": {
+      "ja": "動くもの、動物",
+      "en": "moving, mobile"
+    },
+    "pronunciation": "tasā",
+    "partOfSpeech": "形容詞",
+    "examples": ["tasā vā thāvarā vā = 動くものも動かないものも"]
+  },
+  {
+    "word": "thāvarā",
+    "katakana": "ターヴァラー",
+    "translations": {
+      "ja": "動かないもの、不動の",
+      "en": "immobile, stationary"
+    },
+    "pronunciation": "thāvarā",
+    "partOfSpeech": "形容詞",
+    "examples": ["tasā vā thāvarā vā = 動くものも動かないものも"]
+  },
+  {
+    "word": "anavasesā",
+    "katakana": "アナヴァセサー",
+    "translations": {
+      "ja": "残らず、すべて",
+      "en": "without remainder, all"
+    },
+    "pronunciation": "anavasesā",
+    "partOfSpeech": "形容詞",
+    "examples": ["anavasesā = 残らず"]
+  },
+  {
+    "word": "dīghā",
+    "katakana": "ディーガー",
+    "translations": {
+      "ja": "長いもの",
+      "en": "long"
+    },
+    "pronunciation": "dīghā",
+    "partOfSpeech": "形容詞",
+    "examples": ["Dīghā vā ye mahantā vā = 長いものも、大きいものも"]
+  },
+  {
+    "word": "mahantā",
+    "katakana": "マハンター",
+    "translations": {
+      "ja": "大きいもの",
+      "en": "large, great"
+    },
+    "pronunciation": "mahantā",
+    "partOfSpeech": "形容詞",
+    "examples": ["mahantā vā = 大きいものも"]
+  },
+  {
+    "word": "majjhimā",
+    "katakana": "マッジマー",
+    "translations": {
+      "ja": "中くらいのもの",
+      "en": "medium, middle"
+    },
+    "pronunciation": "majjhimā",
+    "partOfSpeech": "形容詞",
+    "examples": ["majjhimā rassakāṇukathūlā = 中くらいのもの、短いもの、細いもの、太いもの"]
+  },
+  {
+    "word": "rassakāṇukathūlā",
+    "katakana": "ラッサカーヌカトゥーラー",
+    "translations": {
+      "ja": "短いもの、細いもの、太いもの",
+      "en": "short, subtle, and gross"
+    },
+    "pronunciation": "rassakāṇukathūlā",
+    "partOfSpeech": "形容詞（複合語）",
+    "examples": ["majjhimā rassakāṇukathūlā = 中くらい、短い、細い、太い"]
+  },
+  {
+    "word": "diṭṭhā",
+    "katakana": "ディッター",
+    "translations": {
+      "ja": "見えるもの",
+      "en": "seen, visible"
+    },
+    "pronunciation": "diṭṭhā",
+    "partOfSpeech": "形容詞",
+    "examples": ["Diṭṭhā vā yeva adiṭṭhā = 見えるものも、見えないものも"]
+  },
+  {
+    "word": "yeva",
+    "katakana": "イェヴァ",
+    "translations": {
+      "ja": "まさに、強調",
+      "en": "indeed, just"
+    },
+    "pronunciation": "yeva",
+    "partOfSpeech": "不変化詞",
+    "examples": ["yeva = まさに"]
+  },
+  {
+    "word": "adiṭṭhā",
+    "katakana": "アディッター",
+    "translations": {
+      "ja": "見えないもの",
+      "en": "unseen, invisible"
+    },
+    "pronunciation": "adiṭṭhā",
+    "partOfSpeech": "形容詞",
+    "examples": ["adiṭṭhā = 見えないもの"]
+  },
+  {
+    "word": "dūre",
+    "katakana": "ドゥーレ",
+    "translations": {
+      "ja": "遠くに",
+      "en": "far, distant"
+    },
+    "pronunciation": "dūre",
+    "partOfSpeech": "副詞",
+    "examples": ["ye ca dūre vasanti = 遠くに住むものも"]
+  },
+  {
+    "word": "vasanti",
+    "katakana": "ヴァサンティ",
+    "translations": {
+      "ja": "住む、生きる",
+      "en": "dwell, live"
+    },
+    "pronunciation": "vasanti",
+    "partOfSpeech": "動詞",
+    "examples": ["dūre vasanti = 遠くに住む"]
+  },
+  {
+    "word": "avidūre",
+    "katakana": "アヴィドゥーレ",
+    "translations": {
+      "ja": "近くに",
+      "en": "near, not far"
+    },
+    "pronunciation": "avidūre",
+    "partOfSpeech": "副詞",
+    "examples": ["avidūre = 近くに"]
+  },
+  {
+    "word": "bhūtā",
+    "katakana": "ブーター",
+    "translations": {
+      "ja": "すでに生まれたもの",
+      "en": "beings, those who have become"
+    },
+    "pronunciation": "bhūtā",
+    "partOfSpeech": "形容詞",
+    "examples": ["Bhūtā vā sambhavesī vā = すでに生まれたものも、これから生まれるものも"]
+  },
+  {
+    "word": "sambhavesī",
+    "katakana": "サンバヴェシー",
+    "translations": {
+      "ja": "これから生まれようとするもの",
+      "en": "those who will come to be"
+    },
+    "pronunciation": "sambhavesī",
+    "partOfSpeech": "形容詞",
+    "examples": ["sambhavesī vā = これから生まれようとするものも"]
+  },
+  {
+    "word": "paro",
+    "katakana": "パロ",
+    "translations": {
+      "ja": "他人、他者",
+      "en": "another, other"
+    },
+    "pronunciation": "paro",
+    "partOfSpeech": "名詞",
+    "examples": ["Na paro paraṃ nikubbetha = だれも他人を欺いてはならない"]
+  },
+  {
+    "word": "paraṃ",
+    "katakana": "パラン",
+    "translations": {
+      "ja": "他人を、他者を",
+      "en": "another (accusative)"
+    },
+    "pronunciation": "paraṃ",
+    "partOfSpeech": "名詞（対格）",
+    "examples": ["paro paraṃ nikubbetha = 他人が他人を欺く"]
+  },
+  {
+    "word": "nikubbetha",
+    "katakana": "ニクッベタ",
+    "translations": {
+      "ja": "欺く、だます",
+      "en": "deceive, cheat"
+    },
+    "pronunciation": "nikubbetha",
+    "partOfSpeech": "動詞（opt法）",
+    "examples": ["Na paro paraṃ nikubbetha = だれも他人を欺いてはならない"]
+  },
+  {
+    "word": "nātimaññetha",
+    "katakana": "ナーティマンニェタ",
+    "translations": {
+      "ja": "軽んじる、軽蔑する",
+      "en": "despise, look down upon"
+    },
+    "pronunciation": "nātimaññetha",
+    "partOfSpeech": "動詞（opt法）",
+    "examples": ["nātimaññetha katthaci na kañci = どこでもだれをも軽んじてはならない"]
+  },
+  {
+    "word": "katthaci",
+    "katakana": "カッタチ",
+    "translations": {
+      "ja": "どこでも",
+      "en": "anywhere, wherever"
+    },
+    "pronunciation": "katthaci",
+    "partOfSpeech": "副詞",
+    "examples": ["katthaci na kañci = どこでもだれをも"]
+  },
+  {
+    "word": "kañci",
+    "katakana": "カンチ",
+    "translations": {
+      "ja": "だれをも、いかなる者も",
+      "en": "anyone, anybody"
+    },
+    "pronunciation": "kañci",
+    "partOfSpeech": "代名詞",
+    "examples": ["na kañci = だれをも〜ない"]
+  },
+  {
+    "word": "byārosanā",
+    "katakana": "ビャーロサナー",
+    "translations": {
+      "ja": "怒り、憤り",
+      "en": "anger, irritation"
+    },
+    "pronunciation": "byārosanā",
+    "partOfSpeech": "名詞",
+    "examples": ["Byārosanā paṭighasaññā = 怒りや憎しみの思い"]
+  },
+  {
+    "word": "paṭighasaññā",
+    "katakana": "パティガサンニャー",
+    "translations": {
+      "ja": "憎しみの思い、反発の心",
+      "en": "perception of aversion"
+    },
+    "pronunciation": "paṭighasaññā",
+    "partOfSpeech": "名詞",
+    "examples": ["paṭighasaññā = 憎しみの思い"]
+  },
+  {
+    "word": "nāññamaññassa",
+    "katakana": "ナンニャマンニャッサ",
+    "translations": {
+      "ja": "互いに",
+      "en": "to one another"
+    },
+    "pronunciation": "nāññamaññassa",
+    "partOfSpeech": "代名詞",
+    "examples": ["nāññamaññassa dukkhamiccheyya = 互いに苦しみを望んではならない"]
+  },
+  {
+    "word": "dukkhamiccheyya",
+    "katakana": "ドゥッカミッチェッヤ",
+    "translations": {
+      "ja": "苦しみを望む",
+      "en": "wish suffering"
+    },
+    "pronunciation": "dukkhamiccheyya",
+    "partOfSpeech": "動詞（opt法）",
+    "examples": ["dukkhamiccheyya = 苦しみを望む"]
+  },
+  {
+    "word": "mātā",
+    "katakana": "マーター",
+    "translations": {
+      "ja": "母",
+      "en": "mother"
+    },
+    "pronunciation": "mātā",
+    "partOfSpeech": "名詞",
+    "examples": ["Mātā yathā niyaṃ puttaṃ = 母が自分の子を"]
+  },
+  {
+    "word": "yathā",
+    "katakana": "ヤター",
+    "translations": {
+      "ja": "〜のように",
+      "en": "as, just as"
+    },
+    "pronunciation": "yathā",
+    "partOfSpeech": "接続詞",
+    "examples": ["Mātā yathā = 母のように"]
+  },
+  {
+    "word": "niyaṃ",
+    "katakana": "ニヤン",
+    "translations": {
+      "ja": "自分の",
+      "en": "one's own"
+    },
+    "pronunciation": "niyaṃ",
+    "partOfSpeech": "代名詞",
+    "examples": ["niyaṃ puttaṃ = 自分の子"]
+  },
+  {
+    "word": "puttaṃ",
+    "katakana": "プッタン",
+    "translations": {
+      "ja": "子、息子",
+      "en": "son, child"
+    },
+    "pronunciation": "puttaṃ",
+    "partOfSpeech": "名詞",
+    "examples": ["niyaṃ puttaṃ = 自分の子"]
+  },
+  {
+    "word": "āyusā",
+    "katakana": "アーユサー",
+    "translations": {
+      "ja": "命で、命がけで",
+      "en": "with life, at the risk of life"
+    },
+    "pronunciation": "āyusā",
+    "partOfSpeech": "名詞（具格）",
+    "examples": ["āyusā ekaputtam-anurakkhe = 命がけで一人の子を守る"]
+  },
+  {
+    "word": "ekaputtam",
+    "katakana": "エカプッタム",
+    "translations": {
+      "ja": "たった一人の子",
+      "en": "only child"
+    },
+    "pronunciation": "ekaputtam",
+    "partOfSpeech": "名詞",
+    "examples": ["ekaputtam-anurakkhe = たった一人の子を守る"]
+  },
+  {
+    "word": "anurakkhe",
+    "katakana": "アヌラッケ",
+    "translations": {
+      "ja": "守る、保護する",
+      "en": "protect, guard"
+    },
+    "pronunciation": "anurakkhe",
+    "partOfSpeech": "動詞（opt法）",
+    "examples": ["ekaputtam-anurakkhe = 一人の子を守る"]
+  },
+  {
+    "word": "evam",
+    "katakana": "エヴァム",
+    "translations": {
+      "ja": "そのように",
+      "en": "thus, in this way"
+    },
+    "pronunciation": "evam",
+    "partOfSpeech": "副詞",
+    "examples": ["Evam-pi = そのように"]
+  },
+  {
+    "word": "pi",
+    "katakana": "ピ",
+    "translations": {
+      "ja": "〜も、強調",
+      "en": "also, even"
+    },
+    "pronunciation": "pi",
+    "partOfSpeech": "不変化詞",
+    "examples": ["Evam-pi = そのように"]
+  },
+  {
+    "word": "mettāñca",
+    "katakana": "メッタンチャ",
+    "translations": {
+      "ja": "慈悲を、そして慈愛を",
+      "en": "and loving-kindness"
+    },
+    "pronunciation": "mettāñca",
+    "partOfSpeech": "名詞+接続詞",
+    "examples": ["Mettāñca sabbalokasmiṃ = すべての世界において慈悲を"]
+  },
+  {
+    "word": "uddhaṃ",
+    "katakana": "ウッダン",
+    "translations": {
+      "ja": "上に、上方に",
+      "en": "above, upward"
+    },
+    "pronunciation": "uddhaṃ",
+    "partOfSpeech": "副詞",
+    "examples": ["Uddhaṃ adho ca = 上下に"]
+  },
+  {
+    "word": "adho",
+    "katakana": "アド",
+    "translations": {
+      "ja": "下に、下方に",
+      "en": "below, downward"
+    },
+    "pronunciation": "adho",
+    "partOfSpeech": "副詞",
+    "examples": ["Uddhaṃ adho = 上下に"]
+  },
+  {
+    "word": "tiriyañca",
+    "katakana": "ティリヤンチャ",
+    "translations": {
+      "ja": "左右に、横に",
+      "en": "across, sideways"
+    },
+    "pronunciation": "tiriyañca",
+    "partOfSpeech": "副詞",
+    "examples": ["tiriyañca = 左右に"]
+  },
+  {
+    "word": "asambādhaṃ",
+    "katakana": "アサンバーダン",
+    "translations": {
+      "ja": "妨げなく、制限なく",
+      "en": "unobstructed, without constraint"
+    },
+    "pronunciation": "asambādhaṃ",
+    "partOfSpeech": "形容詞",
+    "examples": ["asambādhaṃ averaṃ asapattaṃ = 妨げなく、敵意なく、争いなく"]
+  },
+  {
+    "word": "averaṃ",
+    "katakana": "アヴェラン",
+    "translations": {
+      "ja": "敵意なく",
+      "en": "without enmity"
+    },
+    "pronunciation": "averaṃ",
+    "partOfSpeech": "形容詞",
+    "examples": ["averaṃ asapattaṃ = 敵意なく、争いなく"]
+  },
+  {
+    "word": "asapattaṃ",
+    "katakana": "アサパッタン",
+    "translations": {
+      "ja": "争いなく、敵なく",
+      "en": "without conflict"
+    },
+    "pronunciation": "asapattaṃ",
+    "partOfSpeech": "形容詞",
+    "examples": ["asapattaṃ = 争いなく"]
+  },
+  {
+    "word": "tiṭṭhaṃ",
+    "katakana": "ティッタン",
+    "translations": {
+      "ja": "立っている",
+      "en": "standing"
+    },
+    "pronunciation": "tiṭṭhaṃ",
+    "partOfSpeech": "動詞（現在分詞）",
+    "examples": ["Tiṭṭhaṃ caraṃ = 立っていても、歩いていても"]
+  },
+  {
+    "word": "caraṃ",
+    "katakana": "チャラン",
+    "translations": {
+      "ja": "歩いている",
+      "en": "walking, moving"
+    },
+    "pronunciation": "caraṃ",
+    "partOfSpeech": "動詞（現在分詞）",
+    "examples": ["caraṃ nisinno = 歩いている、座っている"]
+  },
+  {
+    "word": "nisinno",
+    "katakana": "ニシンノ",
+    "translations": {
+      "ja": "座っている",
+      "en": "sitting"
+    },
+    "pronunciation": "nisinno",
+    "partOfSpeech": "動詞（過去分詞）",
+    "examples": ["nisinno vā sayāno = 座っていても、横たわっていても"]
+  },
+  {
+    "word": "sayāno",
+    "katakana": "サヤーノ",
+    "translations": {
+      "ja": "横たわっている",
+      "en": "lying down"
+    },
+    "pronunciation": "sayāno",
+    "partOfSpeech": "動詞（現在分詞）",
+    "examples": ["sayāno vā = 横たわっていても"]
+  },
+  {
+    "word": "yāvatassa",
+    "katakana": "ヤーヴァタッサ",
+    "translations": {
+      "ja": "〜するまで",
+      "en": "as long as, until"
+    },
+    "pronunciation": "yāvatassa",
+    "partOfSpeech": "接続詞",
+    "examples": ["yāvatassa vigatamiddho = 眠気が去るまで"]
+  },
+  {
+    "word": "vigatamiddho",
+    "katakana": "ヴィガタミッド",
+    "translations": {
+      "ja": "眠気が去った",
+      "en": "free from drowsiness"
+    },
+    "pronunciation": "vigatamiddho",
+    "partOfSpeech": "形容詞",
+    "examples": ["vigatamiddho = 眠気が去った"]
+  },
+  {
+    "word": "etaṃ",
+    "katakana": "エタン",
+    "translations": {
+      "ja": "この",
+      "en": "this"
+    },
+    "pronunciation": "etaṃ",
+    "partOfSpeech": "代名詞",
+    "examples": ["Etaṃ satiṃ = この正念を"]
+  },
+  {
+    "word": "satiṃ",
+    "katakana": "サティン",
+    "translations": {
+      "ja": "正念、気づき",
+      "en": "mindfulness, awareness"
+    },
+    "pronunciation": "satiṃ",
+    "partOfSpeech": "名詞",
+    "examples": ["Etaṃ satiṃ adhiṭṭheyya = この正念を保て"]
+  },
+  {
+    "word": "adhiṭṭheyya",
+    "katakana": "アディッテッヤ",
+    "translations": {
+      "ja": "保つ、堅持する",
+      "en": "maintain, uphold"
+    },
+    "pronunciation": "adhiṭṭheyya",
+    "partOfSpeech": "動詞（opt法）",
+    "examples": ["satiṃ adhiṭṭheyya = 正念を保て"]
+  },
+  {
+    "word": "brahmametaṃ",
+    "katakana": "ブラマメタン",
+    "translations": {
+      "ja": "これを梵住、これをブラフマヴィハーラ",
+      "en": "this is the Brahma-abiding"
+    },
+    "pronunciation": "brahmametaṃ",
+    "partOfSpeech": "名詞（複合語）",
+    "examples": ["brahmametaṃ vihāraṃ = これを梵住と"]
+  },
+  {
+    "word": "vihāraṃ",
+    "katakana": "ヴィハーラン",
+    "translations": {
+      "ja": "住処、境地",
+      "en": "dwelling, abiding"
+    },
+    "pronunciation": "vihāraṃ",
+    "partOfSpeech": "名詞",
+    "examples": ["brahmametaṃ vihāraṃ = これを梵住と"]
+  },
+  {
+    "word": "idhamāhu",
+    "katakana": "イダマーフ",
+    "translations": {
+      "ja": "ここで人々は呼ぶ",
+      "en": "they call this"
+    },
+    "pronunciation": "idhamāhu",
+    "partOfSpeech": "動詞",
+    "examples": ["idhamāhu = 人々は呼ぶ"]
+  },
+  {
+    "word": "diṭṭhiñca",
+    "katakana": "ディッティンチャ",
+    "translations": {
+      "ja": "見解を、そして見解",
+      "en": "and view"
+    },
+    "pronunciation": "diṭṭhiñca",
+    "partOfSpeech": "名詞+接続詞",
+    "examples": ["Diṭṭhiñca anupagamma = 見解に執着せず"]
+  },
+  {
+    "word": "anupagamma",
+    "katakana": "アヌパガッマ",
+    "translations": {
+      "ja": "執着せず、とらわれず",
+      "en": "not clinging to, not following"
+    },
+    "pronunciation": "anupagamma",
+    "partOfSpeech": "動詞（絶対分詞）",
+    "examples": ["Diṭṭhiñca anupagamma = 見解に執着せず"]
+  },
+  {
+    "word": "sīlavā",
+    "katakana": "シーラヴァー",
+    "translations": {
+      "ja": "戒を保つ、戒律を守る",
+      "en": "virtuous, moral"
+    },
+    "pronunciation": "sīlavā",
+    "partOfSpeech": "形容詞",
+    "examples": ["sīlavā dassanena sampanno = 戒を保ち、見によって完成された"]
+  },
+  {
+    "word": "dassanena",
+    "katakana": "ダッサネナ",
+    "translations": {
+      "ja": "見によって、洞察によって",
+      "en": "by vision, by insight"
+    },
+    "pronunciation": "dassanena",
+    "partOfSpeech": "名詞（具格）",
+    "examples": ["dassanena sampanno = 見によって完成された"]
+  },
+  {
+    "word": "sampanno",
+    "katakana": "サンパンノ",
+    "translations": {
+      "ja": "完成された、成就した",
+      "en": "accomplished, endowed"
+    },
+    "pronunciation": "sampanno",
+    "partOfSpeech": "形容詞",
+    "examples": ["dassanena sampanno = 見によって完成された"]
+  },
+  {
+    "word": "kāmesu",
+    "katakana": "カーメス",
+    "translations": {
+      "ja": "欲望から、諸欲に",
+      "en": "in sensual desires"
+    },
+    "pronunciation": "kāmesu",
+    "partOfSpeech": "名詞（処格）",
+    "examples": ["Kāmesu vineyya gedhaṃ = 欲望から貪りを除く"]
+  },
+  {
+    "word": "vineyya",
+    "katakana": "ヴィネッヤ",
+    "translations": {
+      "ja": "除いた、取り除いた",
+      "en": "having removed, having overcome"
+    },
+    "pronunciation": "vineyya",
+    "partOfSpeech": "動詞（絶対分詞）",
+    "examples": ["vineyya gedhaṃ = 貪りを除く"]
+  },
+  {
+    "word": "gedhaṃ",
+    "katakana": "ゲーダン",
+    "translations": {
+      "ja": "貪り、貪欲",
+      "en": "greed, attachment"
+    },
+    "pronunciation": "gedhaṃ",
+    "partOfSpeech": "名詞",
+    "examples": ["vineyya gedhaṃ = 貪りを除く"]
+  },
+  {
+    "word": "hi",
+    "katakana": "ヒ",
+    "translations": {
+      "ja": "まさに、確かに（強調）",
+      "en": "indeed, certainly"
+    },
+    "pronunciation": "hi",
+    "partOfSpeech": "不変化詞",
+    "examples": ["na hi jātu = まさに決して〜ない"]
+  },
+  {
+    "word": "jātu",
+    "katakana": "ジャートゥ",
+    "translations": {
+      "ja": "決して、再び",
+      "en": "ever, at any time"
+    },
+    "pronunciation": "jātu",
+    "partOfSpeech": "副詞",
+    "examples": ["na hi jātu = 決して〜ない"]
+  },
+  {
+    "word": "gabbhaseyyaṃ",
+    "katakana": "ガッバセッヤン",
+    "translations": {
+      "ja": "母の胎に宿ること",
+      "en": "lying in a womb"
+    },
+    "pronunciation": "gabbhaseyyaṃ",
+    "partOfSpeech": "名詞",
+    "examples": ["na hi jātu gabbhaseyyaṃ = 決して再び母の胎に宿ることはない"]
+  },
+  {
+    "word": "punar",
+    "katakana": "プナル",
+    "translations": {
+      "ja": "再び、もう一度",
+      "en": "again, once more"
+    },
+    "pronunciation": "punar",
+    "partOfSpeech": "副詞",
+    "examples": ["punar-etīti = 再び来ることはない"]
+  },
+  {
+    "word": "etīti",
+    "katakana": "エティティ",
+    "translations": {
+      "ja": "来る（引用終了）",
+      "en": "comes (quotation ending)"
+    },
+    "pronunciation": "etīti",
+    "partOfSpeech": "動詞+引用符",
+    "examples": ["punar-etīti = 再び来る"]
   }
 ]
 
